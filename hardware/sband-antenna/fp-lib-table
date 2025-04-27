@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Spacelab_ant_lib")(type "KiCad")(uri "${KIPRJMOD}/Spacelab_ant_lib.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "SpaceLab")(type "KiCad")(uri "${KIPRJMOD}/SpaceLab.pretty")(options "")(descr ""))
+)
