@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "S-band-antenna")(type "KiCad")(uri "${KIPRJMOD}/S-band-antenna.kicad_sym")(options "")(descr ""))
-)
