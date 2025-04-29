@@ -40,7 +40,7 @@
 </details>
 
 ## Overview
-​The A-Band Antenna project consists of developing an antenna for the S-Band frequency (X GHz), ... .​
+​The S-Band Antenna project consists of developing an antenna for the S-Band frequency (2.200-2.290 GHz), which its initial goal is to be used in a mission of Radio Occultation for the downlink of data.​
 
 <!-- 
 <p align="center">
