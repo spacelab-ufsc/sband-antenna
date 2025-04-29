@@ -49,7 +49,7 @@
 -->
 
 <p align="center">
-    <img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-prototype-top.png" width="400"><img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-prototype-bottom.png" width="400">
+    <img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-top.png" width="400"><img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-bottom.png" width="400">
 </p>
 
 <p align="center">
