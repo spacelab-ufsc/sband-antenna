@@ -136,7 +136,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 24.384 0 0)
+			(at -13.716 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -151,7 +151,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SpaceLab:s-band-patch"
 			(at 0 0 0)
 			(effects
 				(font
@@ -181,7 +181,8 @@
 		(symbol "Patch_0_1"
 			(polyline
 				(pts
-					(xy 25.4 5.08) (xy 25.4 25.4) (xy 45.72 25.4) (xy 50.8 20.32) (xy 50.8 0) (xy 30.48 0) (xy 25.4 5.08)
+					(xy -12.7 -7.62) (xy -12.7 12.7) (xy 7.62 12.7) (xy 12.7 7.62) (xy 12.7 -12.7) (xy -7.62 -12.7)
+					(xy -12.7 -7.62)
 				)
 				(stroke
 					(width 0)
@@ -194,7 +195,7 @@
 		)
 		(symbol "Patch_1_1"
 			(pin input line
-				(at 49.53 12.7 0)
+				(at 15.24 -2.54 180)
 				(length 2.54)
 				(name "coax"
 					(effects

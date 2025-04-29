@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.51,
-          "width": 7.11
+          "drill": 1.2,
+          "height": 1.86,
+          "width": 1.86
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -472,7 +472,8 @@
       "spacelab_lib"
     ],
     "pinned_symbol_libs": [
-      "spacelab_lib"
+      "spacelab_lib",
+      "S-band-antenna"
     ]
   },
   "meta": {
