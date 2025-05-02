@@ -8,11 +8,11 @@
 
 <p align="center">
     <a href="https://github.com/spacelab-ufsc/spacelab#versioning"><img alt="Static Badge" src="https://img.shields.io/badge/status-in_development-red"></a>
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/spacelab-ufsc/sband-antenna-prototype"></a>
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/spacelab-ufsc/sband-antenna-prototype"></a>
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/spacelab-ufsc/sband-antenna-prototype"></a>
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/pulls"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/spacelab-ufsc/sband-antenna-prototype"></a>
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/spacelab-ufsc/sband-antenna-prototype"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/spacelab-ufsc/sband-antenna"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/spacelab-ufsc/sband-antenna"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/spacelab-ufsc/sband-antenna"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/pulls"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/spacelab-ufsc/sband-antenna"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/spacelab-ufsc/sband-antenna"></a>
 </p>
 
 <details>
@@ -44,18 +44,18 @@
 
 <!-- 
 <p align="center">
-    <img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-prototype-top.svg" width="400"><img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-prototype-bottom.svg" width="400">
+    <img src="https://github.com/spacelab-ufsc/sband-antenna/blob/main/docs/pictures/sband-antenna-top.svg" width="400"><img src="https://github.com/spacelab-ufsc/sband-antenna/blob/main/docs/pictures/sband-antenna-bottom.svg" width="400">
 </p>
 -->
 
 <p align="center">
-    <img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-top.png" width="400"><img src="https://github.com/spacelab-ufsc/sband-antenna-prototype/blob/main/docs/pictures/sband-antenna-bottom.png" width="400">
+    <img src="https://github.com/spacelab-ufsc/sband-antenna/blob/main/docs/pictures/sband-antenna-top.png" width="400"><img src="https://github.com/spacelab-ufsc/sband-antenna/blob/main/docs/pictures/sband-antenna-bottom.png" width="400">
 </p>
 
 <p align="center">
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/issues/new?labels=bug"><img alt="Static Badge" src="https://img.shields.io/badge/Report_a_bug-red"></a>
-    <a href="https://github.com/spacelab-ufsc/sband-antenna-prototype/issues/new?labels=enhancement"><img alt="Static Badge" src="https://img.shields.io/badge/Request_a_feature-yellow"></a>
-    <a href="https://github.com/spacela-ufsc/sband-antenna-prototype/issues/new?labels=question,help+wanted"><img alt="Static Badge" src="https://img.shields.io/badge/Request_more_information_or_help-green"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/issues/new?labels=bug"><img alt="Static Badge" src="https://img.shields.io/badge/Report_a_bug-red"></a>
+    <a href="https://github.com/spacelab-ufsc/sband-antenna/issues/new?labels=enhancement"><img alt="Static Badge" src="https://img.shields.io/badge/Request_a_feature-yellow"></a>
+    <a href="https://github.com/spacela-ufsc/sband-antenna/issues/new?labels=question,help+wanted"><img alt="Static Badge" src="https://img.shields.io/badge/Request_more_information_or_help-green"></a>
 </p>
 
 ## Repository Organization
